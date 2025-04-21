@@ -102,6 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 # 📢 Disclaimer
 
-Please read the [DISCLAIMER](disclaimer.md) before using this app.
+Please read the [DISCLAIMER](DISCLAIMER.md) before using this app.
 
 
