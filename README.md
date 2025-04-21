@@ -98,10 +98,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 # 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 # 📢 Disclaimer
 
-Please read the [DISCLAIMER.md](disclaimer) before using this app.
+Please read the [DISCLAIMER](disclaimer.md) before using this app.
 
 
